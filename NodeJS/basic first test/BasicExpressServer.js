@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 //a local path for an image
-const filePath = __dirname+'/JDFJSDF.png';
+const filePath = __dirname+'/test_image.png';
 
 //basic HTTP verb routing 
 
